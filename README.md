@@ -1,1 +1,2 @@
 # ornekrep
+printf("Hello World");
